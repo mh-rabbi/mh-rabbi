@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MD. Mahmudul Hasan Rabbi
-- 👀 I’m interested in software development and using nanotechnology in Artificial Intelligence
+- 👀 I’m interested in software development and using nano-technology in Artificial Intelligence
 - 🌱 I’m currently learning App development
 - 💞️ I’m looking to collaborate on Software development and AI research
 - 📫 How to reach me? Then contact in email mhr221official@gmail.com or whatsapp on 01640863379
