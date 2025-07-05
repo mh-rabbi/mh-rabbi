@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, nano-technology in Artificial Intelligence and Teaching
 - 🌱 I’m currently learning App development
 - 💞️ I’m looking to collaborate on Software development and AI research
-- 📫 How to reach me? Then contact in email mhr221official@gmail.com or whatsapp on 01640863379
+- 📫 How to reach me? Then contact in email 22103257@iubat.edu or whatsapp on 01640863379
 - 😄 Pronouns: He
 - ⚡ Fun fact: Love to watch anime
 
