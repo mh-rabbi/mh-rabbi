@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MD. Mahmudul Hasan Rabbi
 - 👀 I’m interested in software development, nano-technology in Artificial Intelligence and Teaching
-- 🌱 I’m currently learning App development
+- 🌱 I’m currently An App developer and Backend Developer
 - 💞️ I’m looking to collaborate on Software development and AI research
 - 📫 How to reach me? Then contact in email 22103257@iubat.edu or whatsapp on 01640863379
 - 😄 Pronouns: He
