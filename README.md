@@ -14,10 +14,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- ================= ELITE HEADER ================= -->
-<h1 align="center">Md. Mahmudul Hasan Rabbi</h1>
+<h1 align="center">👋 Hi, I’m Md. Mahmudul Hasan Rabbi</h1>
 
 <h3 align="center">
-Backend Engineer • Competitive Programmer • Problem Solver
+Backend Engineer • App Developer • Competitive Programmer • Problem Solver
 </h3>
 
 <p align="center">
