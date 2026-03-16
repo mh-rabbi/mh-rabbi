@@ -151,6 +151,10 @@ You can click the Preview link to take a look at your changes.
 
 ## ⚡ Engineering Philosophy
 
+<table>
+<tr>
+<td width="65%">
+
 > ### “Wake up to reality.”
 >
 > *In the world of software engineering,  
@@ -159,3 +163,13 @@ You can click the Preview link to take a look at your changes.
 > another edge case awakens.*
 >
 > — *Engineer’s Reality*
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="./assets/sharingan.gif" width="180"/>
+
+</td>
+</tr>
+</table>
