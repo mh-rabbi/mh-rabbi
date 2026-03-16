@@ -14,11 +14,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- ================= ELITE HEADER ================= -->
-<h1 align="center">👋 Hi, I’m Md. Mahmudul Hasan Rabbi</h1>
+<h1 align="center">👋 Hi, I’m Md. Mahmudul Hasan Rabbi</h1> 
 
-<h3 align="center">
-Backend Engineer • App Developer • Competitive Programmer • Problem Solver
-</h3>
+<!--<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Md.+Mahmudul+Hasan+Rabbi;Software+Engineer+%7C+Android+Developer;Java+%7C+Flutter+%7C+NestJS+%7C+Firebase;Competitive+Programmer;Codeforces+Pupil+%7C+900%2B+Problems+Solved" />
+</p>-->
+
+<h3 align="center">Backend Engineer • App Developer • Competitive Programmer • Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Clean+Architecture+%7C+Performance+Focused;From+Algorithms+to+Production+🚀" />
@@ -49,7 +51,7 @@ Backend Engineer • App Developer • Competitive Programmer • Problem Solver
 - 🤝 Collaboration on Software Development & AI-related research  
 
 ---
-
+<!---
 ## 💼 Experience Snapshot
 
 **Software Engineer Intern — Grameen HealthTech Limited**  
@@ -62,15 +64,24 @@ Backend Engineer • App Developer • Competitive Programmer • Problem Solver
 - Worked in Agile environment (Jira, Bitbucket)
 
 ---
+--->
 
-## 🧠 Tech Stack
+## 👨‍💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,dart,python,nodejs,express,nestjs,fastapi,react,nextjs,flutter,mysql,postgres,mongodb,firebase,git,linux" />
 </p>
 
 ---
+## 🧠 Competitive Programming
+<p align="center"> <a href="https://codeforces.com/profile/MHR_"> <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/> </a> <a href="https://leetcode.com/MHR_221"> <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> </p>
 
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=MHR_&theme=github_dark" width="49%" />
+  <img src="https://leetcard.jacoblin.cool/MHR_221?theme=dark&font=Baloo&ext=heatmap" width="49%" />
+</p>
+
+<!---
 ## 🏆 Competitive Programming
 
 - ⭐ Codeforces — **MHR_** (Max Rating: 1203)
@@ -80,7 +91,8 @@ Backend Engineer • App Developer • Competitive Programmer • Problem Solver
 - 🥇 Top ranks in multiple collaborative programming contests
 
 ---
-
+--->
+<!---
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -92,7 +104,7 @@ Backend Engineer • App Developer • Competitive Programmer • Problem Solver
 </p>
 
 ---
-
+--->
 ## 🌐 Connect
 
 <p align="center">
@@ -113,6 +125,15 @@ Backend Engineer • App Developer • Competitive Programmer • Problem Solver
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+<!---
+<a href="https://codeforces.com/profile/MHR_">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/MHR_221">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+--->
 </p>
 
 ---
@@ -130,5 +151,11 @@ Backend Engineer • App Developer • Competitive Programmer • Problem Solver
 
 ## ⚡ Engineering Philosophy
 
-> “Solve problems like a competitor.  
-> Build systems like an engineer.”
+> ### “Wake up to reality.”
+>
+> *In the world of software engineering,  
+> bugs never truly disappear.  
+> The moment you think your system is perfect…  
+> another edge case awakens.*
+>
+> — *Engineer’s Reality*
