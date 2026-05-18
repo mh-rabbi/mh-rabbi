@@ -29,6 +29,9 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mh-rabbi&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+<p align="center">
+  <img align="center" alt="coding" width="55%" src="./assets/code.gif">
+</p>
 
 ---
 
